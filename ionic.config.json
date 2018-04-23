@@ -1,0 +1,8 @@
+{
+  "name": "mi-comida",
+  "app_id": "3ad7e0e7",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
